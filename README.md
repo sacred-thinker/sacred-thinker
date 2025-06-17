@@ -35,7 +35,7 @@
       </ul>
     </td>
     <td width="50%">
-      <h4 style="font-size: 1.1em;">📌 <a href="https://github.com/username/task-planner" target="_blank">Веб-сервер для планировщика задач</a></h4>
+      <h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/task-planner/tree/first-iteration" target="_blank">Веб-сервер для планировщика задач</a></h4>
       <ul>
         <li>Использование SQLite</li>
         <li>Докеризация приложения</li>
