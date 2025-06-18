@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/sacred-thinker/sacred-thinker/blob/main/assets/4898322081.jpg?raw=true" alt="Баннер" width="100%"/>
+</div>
+
 <h3 style="font-size: 1.2em;">🛠 Технологии и навыки</h3>
 
 `🔧 Git` `🐧 Linux` `🦾 Go` `🗃 SQL` `📜 YAML` `🐳 Docker` `📦 JSON` `🌐 REST API` `🔗 HTTP` `⚙️ CI/CD` `🔐 JWT` `📦 Docker-compose`
