@@ -10,40 +10,29 @@
 
 <h3 style="font-size: 1.2em;">🚀 Мои проекты</h3>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>📌 Голосовой помощник</h4>
-      <ul>
-        <li>Распознавание команд</li>
-        <li>Интеграция с API</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/fitness-tracker/tree/first-iteration" target="_blank">API для фитнес-трекера</a></h4>
-      <ul>
-        <li>Обработка данных бега, ходьбы, плавания</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📌 Telegram-бот</h4>
-      <ul>
-        <li>Работа с REST API</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/task-planner/tree/first-iteration" target="_blank">Веб-сервер для планировщика задач</a></h4>
-      <ul>
-        <li>Использование SQLite</li>
-        <li>Докеризация приложения</li>
-        <li>Управление задачами через API</li>
-        <li>JWT-аутентификация</li>
-      </ul>
-    </td>
-  </tr>
-</table> 
+<div>
+  <h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/fitness-tracker/tree/first-iteration" target="_blank">API для фитнес-трекера</a></h4>
+  <ul>
+    <li>Обработка данных бега, ходьбы, плавания</li>
+  </ul>
+</div>
+
+<div>
+  <h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/parcel-tracker" target="_blank">Сервис для управления посылками</a></h4>
+  <ul>
+    <li>Работа с SQLite</li>
+  </ul>
+</div>
+
+<div>
+  <h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/task-planner/tree/first-iteration" target="_blank">Веб-сервер для планировщика задач</a></h4>
+  <ul>
+    <li>Использование SQLite</li>
+    <li>Докеризация приложения</li>
+    <li>Управление задачами через API</li>
+    <li>JWT-аутентификация</li>
+  </ul>
+</div>
 
 ---
 
