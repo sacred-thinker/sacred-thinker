@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td width="50%">
-      <h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/fitness-tracker/tree/first-iteration" target="_blank">📌 API для фитнес-трекера</a></h4>
+      <h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/fitness-tracker/tree/first-iteration" target="_blank">API для фитнес-трекера</a></h4>
       <ul>
         <li>Обработка данных бега, ходьбы, плавания</li>
       </ul>
