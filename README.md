@@ -4,7 +4,18 @@
 
 <h3 style="font-size: 1.2em;">🛠 Технологии и навыки</h3>
 
-`🔧 Git` `🐧 Linux` `🦾 Go` `🗃 SQL` `📜 YAML` `🐳 Docker` `📦 JSON` `🌐 REST API` `🔗 HTTP` `⚙️ CI/CD` `🔐 JWT` `📦 Docker-compose`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-FF1B2D?style=flat&logo=internetexplorer&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
