@@ -22,7 +22,7 @@
 <h3 style="font-size: 1.2em;">🚀 Мои проекты</h3>
 
 <div>
-<h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/task-planner/tree/first-iteration" target="_blank">REST API сервис для управления онлайн-подписками пользователей</a></h4>
+<h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/subscription-service" target="_blank">REST API сервис для управления онлайн-подписками пользователей</a></h4>
   <ul>
 <li>CRUDL операции над подписками</li>
 <li>Агрегация стоимости подписок за период с фильтрацией</li>
