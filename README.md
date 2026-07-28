@@ -22,6 +22,19 @@
 <h3 style="font-size: 1.2em;">🚀 Мои проекты</h3>
 
   <div>
+    <h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/Backend-Astrostilist-" target="_blank">Проект «Астростилист» для Группы IT-компаний ILINE GROUP</a></h4> 
+    <ul>
+ <li>Проектирование и реализация CRUD API для управления товарами и правилами маппинга в административной части системы</li> 
+ <li>Разработка API для получения логов генерации</li> 
+ <li>Настройка и интеграция NATS JetStream и PostgreSQL</li> 
+ <li>Контейнеризация и развертывание инфраструктуры с использованием Docker</li> 
+ <li>Настройка CI/CD в GitHub Actions, конфигурация и поддержка окружений dev/staging/prod</li> 
+ <li>Покрытие разработанного функционала автоматизированными тестами</li> 
+ <li>Участие в развитии инфраструктуры проекта и автоматизации процессов разработки и развертывания</li>
+      </ul>
+    </div>
+    
+<div>    
   <h4 style="font-size: 1.1em;">📌 <a href="https://github.com/sacred-thinker/task-planner/tree/first-iteration" target="_blank">Веб-сервер для планировщика задач</a></h4>
   <ul>
     <li>Использование SQLite</li>
